@@ -1,0 +1,4 @@
+*.cpp
+*.exe
+*.pdf
+.DS_Store
