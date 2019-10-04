@@ -2,8 +2,8 @@
 
 ## Team‘s Wiki
 
-[https://acm.ecnu.edu.cn/wiki/index.php?title=NULL_(2019) link]
-[https://eoj.i64d.com/wiki/index.php?title=NULL_(2019) Spare Link]
+ [link](https://acm.ecnu.edu.cn/wiki/index.php?title=NULL_(2019) "link")
+ [Spare Link](https://eoj.i64d.com/wiki/index.php?title=NULL_(2019) "Spare Link")
 
 ## ACM ICPC‘s Template
 
